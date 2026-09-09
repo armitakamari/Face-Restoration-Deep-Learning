@@ -3,7 +3,6 @@
 Restores degraded face images (low resolution, Gaussian noise, motion blur) using a U-Net
 encoder–decoder, trained with a combined **restoration loss** and **identity loss**.
 
-Built for: مبانی یادگیری ماشین (ML Fundamentals), Fall 1404 — Shahid Beheshti University.
 
 ## Pipeline
 
