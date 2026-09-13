@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data & Heavy Folders
+data/
+checkpoints/
+results/
+aligned/
+aligned_generalization/
+
+# Outputs
+*.png
+*.pth
+
+# Environment
+venv/
+.env/
+.ipynb_checkpoints/
